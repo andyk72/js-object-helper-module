@@ -1,6 +1,6 @@
 # Infos
 
-Node module development template
+object-helper node module and its usage sample
 
 # Development
 
@@ -17,12 +17,12 @@ Node module development template
 > npm run build
 ```
 
-This will cause:
+This will cause:  
 
-a. The compilation of the application ./dist/index.js
-b. Webpack to start wathcing any future source code updates
-c. On any future source code update
-d. The nodemon application to reload
+a. The compilation of the application ./dist/index.js  
+b. Webpack to start wathcing any future source code updates  
+c. On any future source code update  
+d. The nodemon application to reload  
 
 2. In the **'dev' terminal**, run:
 
@@ -30,11 +30,11 @@ d. The nodemon application to reload
 > npm start
 ```
 
-This will cause:
+This will cause:  
 
-a. The start the nodemon application
-b. The nodemon application will keep watching for updates in ./dist/index.js
-c. On any detected update, the nodemon application will update
+a. The start the nodemon application  
+b. The nodemon application will keep watching for updates in ./dist/index.js  
+c. On any detected update, the nodemon application will update  
 
 3. Develop your code as you like in the ./src folder
 
