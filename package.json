@@ -1,0 +1,18 @@
+{
+  "name": "javascript-object-helper-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon dist/index.js",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
